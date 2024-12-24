@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/MzLibDocs',
   title: "MzLib Doc",
   description: "MzLib Document",
   themeConfig: {
